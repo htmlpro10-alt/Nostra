@@ -157,4 +157,13 @@ body {
     .service-container-2 {
         flex-direction: column;
     }
+    .contact-table{
+        width: 500px;
+    }
+    .contact-table input{
+        width: 275px;
+    }
+    .contact-table textarea{
+        width: 275px;
+    }
 }
